@@ -1,0 +1,8 @@
+[[libcgal2_julia]]
+arch = "x86_64"
+git-tree-sha1 = "55375bf8e7a0ee9742c7d47aed5b5e08e0bab8b0"
+os = "macos"
+
+    [[libcgal2_julia.download]]
+    sha256 = "9523fc35108e25c53446ee26842bc96b07a241eda5c26e8678bc702db0fc4586"
+    url = "https://github.com/mathieu17g/libcgal2_jll.jl/releases/download/libcgal2_julia-v0.18.7+0/libcgal2_julia.v0.18.7.x86_64-apple-darwin.tar.gz"
